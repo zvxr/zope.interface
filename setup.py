@@ -99,7 +99,7 @@ long_description = (
         read('CHANGES.rst')
         )
 
-setup(name='zope.interface',
+setup(name='zope_interface',
       version='5.1.0',
       url='https://github.com/zopefoundation/zope.interface',
       license='ZPL 2.1',
